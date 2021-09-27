@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\bin\Debug\netcoreapp3.1\Work2.exe
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\bin\Debug\netcoreapp3.1\Work2.deps.json
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\bin\Debug\netcoreapp3.1\Work2.runtimeconfig.json
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\bin\Debug\netcoreapp3.1\Work2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\bin\Debug\netcoreapp3.1\Work2.dll
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\bin\Debug\netcoreapp3.1\Work2.pdb
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.AssemblyInfo.cs
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.dll
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.pdb
+C:\Users\user\Desktop\Лабораторна № 2\Work2\Work2\obj\Debug\netcoreapp3.1\Work2.genruntimeconfig.cache

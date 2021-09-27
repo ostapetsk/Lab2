@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\bin\Debug\netcoreapp3.1\Work8.exe
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\bin\Debug\netcoreapp3.1\Work8.deps.json
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\bin\Debug\netcoreapp3.1\Work8.runtimeconfig.json
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\bin\Debug\netcoreapp3.1\Work8.runtimeconfig.dev.json
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\bin\Debug\netcoreapp3.1\Work8.dll
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\bin\Debug\netcoreapp3.1\Work8.pdb
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.AssemblyInfo.cs
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.dll
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.pdb
+C:\Users\user\Desktop\Лабораторна № 2\Work8\Work8\obj\Debug\netcoreapp3.1\Work8.genruntimeconfig.cache
